@@ -15,6 +15,12 @@ https://habr.com/ru/articles/573438/
 здесь будут разобраны блокировки, процесс записи изменённых данных, а также дополнительные команды SQL Server.
 https://habr.com/ru/articles/579018/
 
+The LOOP, HASH and MERGE Join Types. Eitan Blumin.
+https://eitanblumin.com/2018/10/28/the-loop-hash-and-merge-join-types/
+
+Understanding Hash Joins | Microsoft Docs
+https://docs.microsoft.com/en-us/sql/relational-databases/performance/joins#hash
+
 Генератор фамилий и имен
 https://rifme.net/fio
 
